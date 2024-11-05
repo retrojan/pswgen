@@ -1,3 +1,4 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 # Function to generate a password
 function Generate-Password {
     param (
